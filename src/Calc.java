@@ -30,7 +30,7 @@ public class Calc {
                 break;
 
             default:
-                System.out.println("Что-то неправильно ввел");
+                System.out.println("Неправильно ввел действие");
                 return;
         }
 
